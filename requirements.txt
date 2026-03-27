@@ -4,7 +4,7 @@ torchvision
 opencv-python-headless
 numpy
 pillow
-mediapipe==0.10.33
+mediapipe
 facenet-pytorch
 librosa
 soundfile
@@ -12,4 +12,3 @@ scikit-image
 matplotlib
 plotly
 pandas
-scikit-learn
